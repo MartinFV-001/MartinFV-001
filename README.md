@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Mi nombre es Martin y soy Alumno en Ingeniería en Sistemas Computacionales  del Instituto Tecnológico de México Campus Pachuca.</p>
+<p align="left">Mi nombre es Martin y estoy estudiando Ingeniería en Sistemas Computacionales del Instituto Tecnológico de México Campus Pachuca.</p>
 
 ###
 
